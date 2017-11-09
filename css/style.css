@@ -36,22 +36,22 @@ body, html {
   min-height: 400px;
 }
 
-.section{
+.section {
   text-align: center;
   padding: 50px 80px;
 }
 
-.section-light{
+.section-light {
   background-color: #f4f4f4;
   color: #666;
 }
 
-.section-dark{
+.section-dark {
   background-color: #282e34;
   color: #ddd;
 }
 
-.ptext{
+.ptext {
   position: absolute;
   top: 50%;
   width: 100%;
@@ -62,18 +62,18 @@ body, html {
   text-transform: uppercase;
 }
 
-.ptext .border{
+.ptext .border {
   background-color: #111;
   color: #fff;
   padding: 20px;
 }
 
-.ptext .border.trans{
+.ptext .border.trans {
   background-color: transparent;
 }
 
-@media(max-width:568px){
-  .pim1, .pimg2, .pimg3{
+@media(max-width:568px) {
+  .pim1, .pimg2, .pimg3 {
     background-attachment: scroll;
   }
 }
